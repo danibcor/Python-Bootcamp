@@ -1,4 +1,4 @@
-# Python-Bootcamp
+# Python Bootcamp
 This repository is made of annotations that I've been making from the Udemy course "Complete Python Bootcamp From Zero to Hero in Python".
 Link to the course: https://www.udemy.com/course/complete-python-bootcamp/
 
